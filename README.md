@@ -1,4 +1,12 @@
 <!-- README.md for Data Structures and Algorithms Repository -->
+
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="https://cdn.devdojo.com/images/october2021/graph.gif" alt="Image 1" width="200px" style="margin-right: 10px;">
+  <img src="https://cdn.prod.website-files.com/5e6e40d40f8bc39164b5c4e9/64e4bb21571af3c19c26b3a2_github.webp" alt="Image 2" width="300px">
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*gVJYUUE_rBHcpE5XB2s5ag.gif" alt="Image 2" width="200px">
+</p>
+
+
 <div align="center">
   <h1 align="center">📚 Data Structures and Algorithms (DSA)</h1>
   
