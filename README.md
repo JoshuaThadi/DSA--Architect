@@ -11,17 +11,18 @@
   
   <p align="center">
     <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%238FBCBB?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA">
-    </a>
+      <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%238FBCBB?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA"></a>
     <a href="https://www.w3schools.com/dsa/">
-      <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA">
-    </a>
+      <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
+  <a href="https://www.programiz.com/dsa">
+  <img src="https://img.shields.io/badge/Github-Programiz-%23318CE7?style=for-the-badge&logo=github&logoColor=%ffffff" alt="GitHub Programiz"></a>
+
   </p>
   
   <h3 align="center">📌 About</h3>
   <p>This repository contains implementations of various Data Structures and Algorithms (DSA) using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.</p>
   
-  <h3 align="center">Why Use This Repository?</h3>
+  <h4 align="center">⭐ Why Use This Repository?</h4>
   <p>
      Well-structured DSA implementations,
      Beginner-friendly explanations,
