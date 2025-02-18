@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/Github-Programiz-%23318CE7?style=for-the-badge&logo=github&logoColor=%ffffff" alt="GitHub Programiz"></a>
     <a href="https://www.w3schools.com/dsa/">
       <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
+  <a href="https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true#linear">
+  <img src="https://img.shields.io/badge/Github-Google-%232E2F2F?style=for-the-badge&logo=github&logoColor=%ffffff&text=|&color=%232E2F2F&text=Google" alt="GitHub Google"></a>
+<a href="https://algomap.io/">
+  <img src="https://img.shields.io/badge/Algomap-%2300C8F4?style=for-the-badge&logo=algolia&logoColor=%ffffff" alt="Algomap">
+</a>
 
   </p>
   
