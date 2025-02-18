@@ -11,13 +11,13 @@
   
   <p align="center">
     <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%238FBCBB?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA"></a>
+      <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%2329AB87?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA"></a>
     <a href="https://www.programiz.com/dsa">
   <img src="https://img.shields.io/badge/Github-Programiz-%23318CE7?style=for-the-badge&logo=github&logoColor=%ffffff" alt="GitHub Programiz"></a>
     <a href="https://www.w3schools.com/dsa/">
-      <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
+      <img src="https://img.shields.io/badge/W3Schools-Github-%2350C878?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
   <a href="https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true#linear">
-  <img src="https://img.shields.io/badge/Github-Google Architech-%23FFC72C?style=for-the-badge&logo=github&logoColor=%ffffff&text=|&color=%232E2F2F&text=Google" alt="GitHub Google"></a>
+  <img src="https://img.shields.io/badge/Github-Google Architech-%23FFC72C?style=for-the-badge&logo=github&logoColor=%ffffff&text=|&color=%23FFC72C&text=Google" alt="GitHub Google"></a>
 <a href="https://algomap.io/">
   <img src="https://img.shields.io/badge/Github-Algomap-%2300C8F4?style=for-the-badge&logo=algolia&logoColor=%ffffff" alt="Algomap">
 </a>
