@@ -11,52 +11,7 @@
   ## 📌 About
   This repository contains implementations of various **Data Structures and Algorithms (DSA)** using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.
   
-  ## 📂 Repository Structure
-  
-  ```bash
-  ├── Data-Structures
-  │   ├── Arrays
-  │   ├── LinkedLists
-  │   ├── Stacks
-  │   ├── Queues
-  │   ├── Trees
-  │   ├── Graphs
-  │   ├── Hashing
-  │   └── Heaps
-  │
-  ├── Algorithms
-  │   ├── Sorting
-  │   ├── Searching
-  │   ├── Dynamic Programming
-  │   ├── Recursion
-  │   ├── Greedy Algorithms
-  │   ├── Graph Algorithms
-  │   └── Bit Manipulation
-  │
-  ├── problems
-  │   ├── Leetcode
-  │   ├── CodeForces
-  │   ├── CodeChef
-  │   └── OtherChallenges
-  │
-  ├── README.md
-  └── CONTRIBUTING.md
-  ```
-  
-  ## 🚀 Getting Started
-  1. **Clone the repository**
-     ```bash
-     git clone https://github.com/JoshuaThadi/Data-Structures-Algorithms.git
-     ```
-  2. **Navigate into the directory**
-     ```bash
-     cd Data-Structures-Algorithms
-     ```
-  3. **Run Python scripts**
-     ```bash
-     python filename.py
-     ```
-  
+ 
   ## 🏆 Why Use This Repository?
   ✔️ Well-structured DSA implementations<br>
   ✔️ Beginner-friendly explanations<br>
@@ -72,7 +27,6 @@
   
   ## 📜 License
   This project is licensed under the **MIT License**.
-  
-  ---
+
   <p align="center">🚀 Happy Coding!</p>
 </div>
