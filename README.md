@@ -12,10 +12,10 @@
   <p align="center">
     <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/">
       <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%238FBCBB?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA"></a>
+    <a href="https://www.programiz.com/dsa">
+  <img src="https://img.shields.io/badge/Github-Programiz-%23318CE7?style=for-the-badge&logo=github&logoColor=%ffffff" alt="GitHub Programiz"></a>
     <a href="https://www.w3schools.com/dsa/">
       <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
-  <a href="https://www.programiz.com/dsa">
-  <img src="https://img.shields.io/badge/Github-Programiz-%23318CE7?style=for-the-badge&logo=github&logoColor=%ffffff" alt="GitHub Programiz"></a>
 
   </p>
   
