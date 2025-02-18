@@ -8,33 +8,24 @@
 
 
 <div align="center">
-  <h1 align="center">📚 Data Structures and Algorithms (DSA)</h1>
+  <h3 align="center"> 🌟  DSA-Architech</h3>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language">
-    <img src="https://img.shields.io/github/stars/JoshuaThadi/Data-Structures-Algorithms" alt="GitHub stars">
-    <img src="https://img.shields.io/github/forks/JoshuaThadi/Data-Structures-Algorithms" alt="GitHub forks">
+    <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Github-%238FBCBB?style=for-the-badge&logo=geeksforgeeks&logoColor=%ffffff" alt="GeeksforGeeks DSA"></a>
+  <a href="https://www.w3schools.com/dsa/">
+  <img src="https://img.shields.io/badge/W3Schools-Github-%2385A389?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA">
+</a>
   </p>
   
-  ## 📌 About
-  This repository contains implementations of various **Data Structures and Algorithms (DSA)** using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.
+<h3 align="center">📌 About</h3>
+  This repository contains implementations of various Data Structures and Algorithms (DSA) using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.
   
  
-  ## 🏆 Why Use This Repository?
+<h3 align="center>Why Use This Repository?</h3>
   ✔️ Well-structured DSA implementations<br>
   ✔️ Beginner-friendly explanations<br>
   ✔️ Covers both theory and coding problems<br>
   ✔️ Ideal for interview preparation and competitive coding
   
-  ## 🤝 Contributing
-  Contributions are welcome! If you would like to add new algorithms or improve existing ones:
-  1. Fork the repository
-  2. Create a new branch (`feature-branch`)
-  3. Commit your changes
-  4. Open a pull request
-  
-  ## 📜 License
-  This project is licensed under the **MIT License**.
-
-  <p align="center">🚀 Happy Coding!</p>
 </div>
