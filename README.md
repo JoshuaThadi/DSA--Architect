@@ -42,8 +42,8 @@
     <img src="https://img.shields.io/badge/GitHub%20|%20CodeForces-6e6e6e?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB&label=CodeForces" alt="GitHub | CodeForces Badge">
 </a>
 
-
+⚠️ This README is uniquely designed by <strong>@JoshuaThadi</strong>
   
 </div>
 
-⚠️ This README is uniquely designed by <strong>@JoshuaThadi</strong>
+
