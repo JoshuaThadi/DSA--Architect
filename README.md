@@ -41,7 +41,7 @@
   </p>
 
 <h4>🚀 Practice DSA — Strengthen your problem-solving skills with hands-on coding challenges! Solve, learn, and master Data Structures & Algorithms. 💡🔥</h4>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20|%20LeetCode-6e6e6e?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116&label=LeetCode" alt="GitHub | LeetCode Badge"></a>
 <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20|%20CodeForces-6e6e6e?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB&label=CodeForces" alt="GitHub | CodeForces Badge">
