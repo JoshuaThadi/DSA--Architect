@@ -26,6 +26,11 @@
   
   <h3 align="center">📌 About</h3>
   <p>This repository contains implementations of various Data Structures and Algorithms (DSA) using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.</p>
+
+  <a href="https://leetcode.com/u/hOrjU0YmRs/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-MasterJudah-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" />
+</a>
+
   
   <h4 align="center">⭐ Why Use This Repository?</h4>
   <p>
