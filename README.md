@@ -20,8 +20,8 @@
       <img src="https://img.shields.io/badge/W3Schools-Github-%2350C878?style=for-the-badge&logo=w3schools&logoColor=%ffffff" alt="W3Schools DSA"></a>
 <a href="https://algomap.io/">
   <img src="https://img.shields.io/badge/Github-Algomap-%2300C8F4?style=for-the-badge&logo=algolia&logoColor=%ffffff" alt="Algomap"></a>
-<a href="https://www.youtube.com/watch?v=V42FBiohc6c&list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-DSA_%2F_Playlist-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist"></a>
+<a href="https://www.youtube.com/watch?v=B31LgI4Y4DQ&pp=ygUTZHNhIHBsYXlsaXN0IGluIGMrKw%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-DSA-BF616A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Playlist"></a>
 
 
   </p>
