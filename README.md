@@ -6,7 +6,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:800/1*gVJYUUE_rBHcpE5XB2s5ag.gif" alt="Image 3" width="200px">
 </p>
 
-<div align="center">
+
   <h3 align="center"> 🌟 DSA-Architech</h3>
   
   <p align="center">
@@ -25,16 +25,51 @@
 
 
   </p>
+
+<h2>✪ Data Structures and Algorithms </h2>
+Data Structures and Algorithms (DSA) is a foundational concept in computer science that helps in solving problems efficiently.<br>
+A data structure is a way of organizing and storing data so that it can be accessed and modified efficiently. An algorithm is a clear, step-by-step set of instructions or rules designed to solve a specific problem or perform a task.
+
+<br>
+
+<h3>✅ Common Data Structures:</h3>
+
+1] <b>Linear</b> - Array, Linked List, Stack, Queue &nbsp;&nbsp;&nbsp;-> Store sequential data<br>
+2] <b>Non-linear</b> - Tree, Graph &nbsp;&nbsp;&nbsp;-> Represent hierarchy or networks<br>
+3] <b>Hash-based</b> - Hash Table, Hash Map &nbsp;&nbsp;&nbsp;-> Fast lookups and insertions<br>
+4] <b>Specialized</b> - Heap, Trie, Segment Tree &nbsp;&nbsp;&nbsp;-> For advanced operations like prefix matching or efficient searching<br>
+
+<h3>✅ Examples of Algorithms:</h3>
+
+1] <b>Sorting</b>: Bubble Sort, Merge Sort, Quick Sort<br>
+2] <b>Searching</b>: Linear Search, Binary Search<br>
+3] <b>Recursion</b>: Solving problems by breaking them into subproblems<br>
+4] <b>Dynamic Programming</b>: Optimizing recursive problems<br>
+5] <b>Greedy Algorithms</b>: Making locally optimal choices<br>
+6] <b>Graph Algorithms</b>: BFS, DFS, Dijkstra’s, Kruskal’s<br>
+
+<h3>💡 Why DSA is Important?</h3>
+
+1] <b>Efficient Code</b> - Helps write optimized and scalable programs<br>
+2] <b>Problem Solving</b> - Breaks down complex problems into manageable steps<br>
+3] <b>Interviews</b> - Most tech interviews are based on DSA<br>
+4] <b>Competitive Programming</b> - Backbone for contests like Codeforces, LeetCode<br>
+5] <b>Real-World Applications</b> - Used in databases, OS, compilers, AI, etc.<br>
+
+
   
-  <h3 align="center">📌 About</h3>
+  <h3 align="left">📌 About</h3>
   <p>This repository contains implementations of various Data Structures and Algorithms (DSA) using Python. It is structured to help beginners and professionals improve their coding skills for technical interviews and competitive programming.</p>
 
   <a href="https://leetcode.com/u/hOrjU0YmRs/" target="_blank">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-MasterJudah-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" />
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-MasterJudah-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" /></a>
+  <a href="https://github.com/JoshuaThadi/Data-Structures-and-Algorithms/blob/main/DSA-roadmap.md" target="_blank">
+  <img src="https://img.shields.io/badge/DSA_Roadmap-grey?style=for-the-badge&logo=github" alt="DSA Roadmap">
 </a>
 
+
   
-  <h4 align="center">⭐ Why Use This Repository?</h4>
+  <h4 align="left">⭐ Why Use This Repository?</h4>
   <p>
      Well-structured DSA implementations,
      Beginner-friendly explanations,
