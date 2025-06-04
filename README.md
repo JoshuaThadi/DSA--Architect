@@ -41,10 +41,11 @@ A data structure is a way of organizing and storing data so that it can be acces
 3] <b>Hash-based</b> - Hash Table, Hash Map &nbsp;&nbsp;&nbsp;-> Fast lookups and insertions<br>
 4] <b>Specialized</b> - Heap, Trie, Segment Tree &nbsp;&nbsp;&nbsp;-> For advanced operations like prefix matching or efficient searching<br>
 
-<a href="https://www.geeksforgeeks.org/introduction-to-linear-data-structures/"><img src="https://img.shields.io/badge/Linear-grey?style=for-the-badge" alt="Linear" /></a>
-<a href="https://www.ccbp.in/blog/articles/non-linear-data-structure"><img src="https://img.shields.io/badge/Non--linear-grey?style=for-the-badge" alt="Non-linear" /></a>
-<a href="https://www.geeksforgeeks.org/introduction-to-hashing-2/"><img src="https://img.shields.io/badge/Hash--based-grey?style=for-the-badge" alt="Hash-based" /></a>
-<a href="https://www.geeksforgeeks.org/advanced-data-structures/"><img src="https://img.shields.io/badge/Specialized-grey?style=for-the-badge" alt="Specialized" /></a>
+<a href="https://www.geeksforgeeks.org/data-structures/array/"><img src="https://img.shields.io/badge/Linear-grey?style=for-the-badge" alt="Linear" /></a>
+<a href="https://www.geeksforgeeks.org/data-structures/tree/"><img src="https://img.shields.io/badge/Non--linear-grey?style=for-the-badge" alt="Non-linear" /></a>
+<a href="https://www.geeksforgeeks.org/hashing-data-structure/"><img src="https://img.shields.io/badge/Hash--based-grey?style=for-the-badge" alt="Hash-based" /></a>
+<a href="https://www.geeksforgeeks.org/advanced-data-structures/"><img src="https://img.shields.io/badge/Specialized-grey?style=for-the-badge" alt="Specialized" /></a
+
 
 <div><p><h1></h1></p></div>
 
@@ -57,12 +58,13 @@ A data structure is a way of organizing and storing data so that it can be acces
 5] <b>Greedy Algorithms</b>: Making locally optimal choices<br>
 6] <b>Graph Algorithms</b>: BFS, DFS, Dijkstra’s, Kruskal’s<br>
 
-<a href="https://www.geeksforgeeks.org/introduction-to-sorting-algorithm/"><img src="https://img.shields.io/badge/Sorting-grey?style=for-the-badge" alt="Sorting" /></a>
-<a href="https://www.geeksforgeeks.org/introduction-to-searching-algorithms-2/"><img src="https://img.shields.io/badge/Searching-grey?style=for-the-badge" alt="Searching" /></a>
-<a href="https://www.geeksforgeeks.org/introduction-to-recursion-2/"><img src="https://img.shields.io/badge/Recursion-grey?style=for-the-badge" alt="Recursion" /></a>
+<a href="https://www.geeksforgeeks.org/sorting-algorithms/"><img src="https://img.shields.io/badge/Sorting-grey?style=for-the-badge" alt="Sorting" /></a>
+<a href="https://www.geeksforgeeks.org/searching-algorithms/"><img src="https://img.shields.io/badge/Searching-grey?style=for-the-badge" alt="Searching" /></a>
+<a href="https://www.geeksforgeeks.org/recursion/"><img src="https://img.shields.io/badge/Recursion-grey?style=for-the-badge" alt="Recursion" /></a>
 <a href="https://www.geeksforgeeks.org/dynamic-programming/"><img src="https://img.shields.io/badge/Dynamic%20Programming-grey?style=for-the-badge" alt="Dynamic Programming" /></a>
 <a href="https://www.geeksforgeeks.org/greedy-algorithms/"><img src="https://img.shields.io/badge/Greedy%20Algorithms-grey?style=for-the-badge" alt="Greedy Algorithms" /></a>
 <a href="https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"><img src="https://img.shields.io/badge/Graph%20Algorithms-grey?style=for-the-badge" alt="Graph Algorithms" /></a>
+
 
 <div><p><h1></h1></p></div>
 
