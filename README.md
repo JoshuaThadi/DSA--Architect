@@ -44,7 +44,7 @@ A data structure is a way of organizing and storing data so that it can be acces
 <a href="https://www.geeksforgeeks.org/data-structures/array/"><img src="https://img.shields.io/badge/Linear-grey?style=for-the-badge" alt="Linear" /></a>
 <a href="https://www.geeksforgeeks.org/data-structures/tree/"><img src="https://img.shields.io/badge/Non--linear-grey?style=for-the-badge" alt="Non-linear" /></a>
 <a href="https://www.geeksforgeeks.org/hashing-data-structure/"><img src="https://img.shields.io/badge/Hash--based-grey?style=for-the-badge" alt="Hash-based" /></a>
-<a href="https://www.geeksforgeeks.org/advanced-data-structures/"><img src="https://img.shields.io/badge/Specialized-grey?style=for-the-badge" alt="Specialized" /></a
+<a href="https://www.geeksforgeeks.org/advanced-data-structures/"><img src="https://img.shields.io/badge/Specialized-grey?style=for-the-badge" alt="Specialized" /></a>
 
 
 <div><p><h1></h1></p></div>
