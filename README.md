@@ -27,7 +27,8 @@
   </p>
 
 <h2>✪ Data Structures and Algorithms </h2>
-Data Structures and Algorithms (DSA) is a foundational concept in computer science that helps in solving problems efficiently.
+
+>Data Structures and Algorithms (DSA) is a foundational concept in computer science that helps in solving problems efficiently.
 A data structure is a way of organizing and storing data so that it can be accessed and modified efficiently. An algorithm is a clear, step-by-step set of instructions or rules designed to solve a specific problem or perform a task.
 
 <br>
